@@ -1,7 +1,7 @@
 {
   "name": "first-layout",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template for your layout",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/Reustick/first-layout.git"
   },
-  "author": "Gazetdinov Rustam",
+  "keywords": [
+    "gulp",
+    "sass",
+    "template",
+    "normalize.css",
+    "layout"
+  ],
+  "author": {
+    "name": "Gazetdinov Rustam",
+    "email": "rustam391@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Reustick/first-layout/issues"
