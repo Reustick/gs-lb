@@ -1,5 +1,5 @@
 {
-  "name": "zero-layout",
+  "name": "gs-lb",
   "version": "1.0.0",
   "description": "Template for your layout",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Reustick/zero-layout.git"
+    "url": "git+https://github.com/Reustick/gs-lb.git"
   },
   "keywords": [
     "gulp",
@@ -23,9 +23,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Reustick/zero-layout/issues"
+    "url": "https://github.com/Reustick/gs-lb/issues"
   },
-  "homepage": "https://github.com/Reustick/zero-layout#readme",
+  "homepage": "https://github.com/Reustick/gs-lb#readme",
   "devDependencies": {
     "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
